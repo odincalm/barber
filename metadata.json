@@ -1,0 +1,6 @@
+{
+  "name": "MKS Hair Salon",
+  "description": "Modern hair and grooming studio crafted with precision on Salarpur Road, Haryana. Discover signature haircuts, beard styling, and direct WhatsApp bookings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
